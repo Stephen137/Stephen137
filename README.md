@@ -20,8 +20,10 @@ After 20+ years in data analytics I have taken a career break to learn new skill
 **Tech stack :**  
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&style=flat" />
+  <img alt="VisualStudioCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white&style=flat" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" /> 
-  <img alt="  SQLite" src="https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=SQLite&logoColor=white&style=flat" /> 
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&style=flat" /> 
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white&style=flat" />
   <img alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=python&logoColor=white&style=flat" /> 
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&style=flat" /> 
