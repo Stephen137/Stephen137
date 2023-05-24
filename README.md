@@ -1,16 +1,61 @@
-### Hi there 👋
+### Hello. My name is Stephen 👋
+After 20+ years in data analytics I have taken a career break to learn new skills and technologies in the field of data and machine learning engineering. 
 
-<!--
-**Stephen137/Stephen137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am actively seeking employment as a data or machine learning engineer
 
-Here are some ideas to get you started:
+- 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am currently learning [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp) with [Alexey Grigorev](https://github.com/alexeygrigorev)
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sjbarrie/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+  />
+</a>
+
+- ⚡ Fun fact: I play bass guitar in a rock band - new album in progress!   
+
+
+**Tech stack :**  
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&style=flat" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" /> 
+  <img alt="  SQLite" src="https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=SQLite&logoColor=white&style=flat" /> 
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white&style=flat" />
+  <img alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=python&logoColor=white&style=flat" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&style=flat" /> 
+  <img alt="ApacheSpark" src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white&style=flat" /> 
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat" /> 
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white&style=flat" /> 
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white&style=flat" /> 
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=flat" /> 
+     
+<br><br>
+<div align="left">
+ <div>
+   <p>&nbsp;
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen137&layout=compact" />
+   </p>
+  </div>
+ </div>
+          
+<br><br>
+<div align="left">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Stephen137&theme=default&date_format=M%20j%5B%2C%20Y%5D" alt="Stephen137" />
+   </p>
+  </div>
+ </div>
+
+
+<br><br>
+<div align="left">
+ <div>
+   <p>&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api?username=Stephen137&count_private=true&theme=default&show_icons=true" />
+    </p>
+   </div>
+ </div>
+
