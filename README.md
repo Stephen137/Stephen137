@@ -1,9 +1,9 @@
 ### Hello. My name is Stephen 👋
 After 20+ years in data analytics I have taken a career break to learn new skills and technologies in the field of data and machine learning engineering. 
 
-- 🔭 I am actively seeking employment as a data or machine learning engineer
+- 🔭 I am actively seeking employment as a data or machine learning engineer. Please reach out if you feel I might be a good fit for your team
 
-- 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298 
+- 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
 
 - 🌱 I am currently learning [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp) with [Alexey Grigorev](https://github.com/alexeygrigorev)
 
@@ -20,7 +20,7 @@ After 20+ years in data analytics I have taken a career break to learn new skill
 **Tech stack :**  
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&style=flat" />
-  <img alt="VisualStudioCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white&style=flat" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white&style=flat" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" /> 
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white&style=flat" /> 
@@ -29,9 +29,10 @@ After 20+ years in data analytics I have taken a career break to learn new skill
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&style=flat" /> 
   <img alt="ApacheSpark" src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white&style=flat" /> 
   <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat" /> 
-  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white&style=flat" /> 
   <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white&style=flat" /> 
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=flat" /> 
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white&style=flat" /> 
+  
      
 <br><br>
 <div align="left">
