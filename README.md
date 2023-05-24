@@ -17,7 +17,7 @@ After 20+ years in data analytics I have taken a career break to learn new skill
 - ⚡ Fun fact: I play bass guitar in a rock band - new album in progress!   
 
 
-**Tech stack :** #4169E1
+**Tech stack :** 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&style=flat" />
   <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white&style=flat" />
