@@ -5,7 +5,7 @@ After 20+ years in data analytics I have taken a career break to learn new skill
 
 - 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
 
-- 🌱 I am currently learning [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp) with [Alexey Grigorev](https://github.com/alexeygrigorev)
+- 🌱 I am currently learning [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp) with [Alexey Grigorev](https://github.com/alexeygrigorev) which will provide architecture to the foundations learned in the [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/99JR5486ASMK) course
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sjbarrie/">
   <img
