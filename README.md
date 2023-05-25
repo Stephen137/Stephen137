@@ -1,5 +1,7 @@
 ### Hello. My name is Stephen 👋
-After 20+ years in data analytics I have taken a career break to learn new skills and technologies in the field of data and machine learning engineering. I thrive in a collaborative environment and in my previous role as Client Relations Manager in a firm of chartered accountants and business advisors, I engaged with multiple internal and external stakeholders to develop long-term relationships, provide optimal solutions, and shape the strategic direction of my clients.
+After 20+ years in data analytics I have taken a career break to learn new skills and technologies in the field of data and machine learning engineering.
+
+I thrive in a collaborative environment and in my previous role as Client Relations Manager in a firm of chartered accountants and business advisors, I engaged with multiple internal and external stakeholders to develop long-term relationships, provide optimal solutions, and shape the strategic direction of my clients.
 
 - 🔭 I am actively seeking employment as a data or machine learning engineer. Please reach out if you feel I might be a good fit for your team
 
