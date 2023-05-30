@@ -34,11 +34,12 @@ I thrive in a collaborative environment and in my previous role as Client Relati
   <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat" /> 
   <img alt="Looker" src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white&style=flat" /> 
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&style=flat" /> 
-  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white&style=flat" />
+  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white&style=flat" />
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white&style=flat" /> 
+  <img alt="Weights&Biases" src="https://img.shields.io/badge/Weights&Biases-FFBE00?style=for-the-badge&logo=Weights&Biases&logoColor=white&style=flat" /> 
   
      
-<br><br>
+<br><br>    
 <div align="left">
  <div>
    <p>&nbsp;
