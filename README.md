@@ -1,5 +1,5 @@
 ### Hello. My name is Stephen 👋
-Experienced data analyst, exploring skills and technologies in the field of geospatial data.
+Experienced chartered accountant and data analyst, exploring new skills and technologies in the field of geospatial data.
 
 I thrive in a collaborative environment and in my previous role as Client Relations Manager in a firm of chartered accountants and business advisors, I engaged with multiple internal and external stakeholders to develop long-term relationships, provide optimal solutions, and shape the strategic direction of my clients.
 
