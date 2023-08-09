@@ -9,6 +9,8 @@ I thrive in a collaborative environment and in my previous role as Client Relati
 
 - 🌱 I am currently learning: [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp) with [Alexey Grigorev](https://github.com/alexeygrigorev) which will provide architecture to the foundations learned in the [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/99JR5486ASMK) course
 
+- 🌱 I am currently exploring: new skills and technology in the field of [geospatial data](https://www.linkedin.com/posts/sjbarrie_interactive-maps-with-folium-activity-7090292215486308352-ZexQ?utm_source=share&utm_medium=member_desktop)
+
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sjbarrie/">
   <img
     alt="Linkedin"
