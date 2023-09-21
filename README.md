@@ -7,7 +7,7 @@ I thrive in a collaborative environment and in my previous role as Client Relati
 
 - 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
 
-- 🌱 I am currently exploring: new skills and technology in the field of [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science)
+- 🌱 I am currently exploring: new skills and technology in the field of [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science) and [satellite imagery and remote sensing](https://github.com/Stephen137/Imagery-in-Action)
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sjbarrie/">
   <img
