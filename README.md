@@ -1,15 +1,15 @@
 ### Hello. My name is Stephen 👋
-Experienced chartered accountant and data analyst, exploring new skills and technologies in the field of geospatial data.
+🌱 Experienced chartered accountant and data analyst, exploring new skills and technologies in the field of [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science) and [satellite imagery and remote sensing](https://github.com/Stephen137/Imagery-in-Action)
 
-I thrive in a collaborative environment and in my previous role as Client Relations Manager in a firm of chartered accountants and business advisors, I engaged with multiple internal and external stakeholders to develop long-term relationships, provide optimal solutions, and shape the strategic direction of my clients.
+🔭 I recently gained a new certification: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120)
 
-- 🔭 Please reach out if you feel I might be a good fit for your team
+I thrive in a collaborative environment and in my previous role as Client Relations Manager in a firm of chartered accountants and business advisors, I engaged with multiple internal and external stakeholders to develop long-term relationships, provide optimal solutions, and shape the strategic direction of my clients
 
-- 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
+Please reach out if you feel I might be a good fit for your team
 
-- 🌱 I am currently exploring: new skills and technology in the field of [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science) and [satellite imagery and remote sensing](https://github.com/Stephen137/Imagery-in-Action)
+🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/sjbarrie/">
+📫 How to reach me: <a href="https://www.linkedin.com/in/sjbarrie/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
