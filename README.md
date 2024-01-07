@@ -1,11 +1,10 @@
 ### Hello. My name is Stephen 👋
-🌱 Experienced chartered accountant and data analyst, exploring new skills and technologies in the field of [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science) and [satellite imagery and remote sensing](https://github.com/Stephen137/Imagery-in-Action)
+🌱 Experienced chartered accountant and data analyst, exploring new skills and technologies in the fields of machine learning, [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science) and [satellite imagery and remote sensing](https://github.com/Stephen137/Imagery-in-Action).
 
 🔭 I recently gained two new certifications: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120) and [Imagery In Action](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f46df0532b353002b2e5f8/-120)
 
 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
 
-I thrive in a collaborative environment and in my previous role as Client Relations Manager in a firm of chartered accountants and business advisors, I engaged with multiple internal and external stakeholders to develop long-term relationships, provide optimal solutions, and shape the strategic direction of my clients
 
 Please reach out if you feel I might be a good fit for your team
 
@@ -15,6 +14,9 @@ Please reach out if you feel I might be a good fit for your team
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
   />
 </a>
+
+https://arcg.is/1PPbaa
+
 
 - ⚡ Fun fact: I play bass guitar in a rock band - new album in progress!   
 
