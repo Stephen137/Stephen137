@@ -1,5 +1,5 @@
 ### Hello. My name is Stephen 👋
-🌱 Experienced chartered accountant and data analyst, exploring new skills and technologies in the fields of machine learning, [geospatial data](https://github.com/Stephen137/ESRI-Spatial-Data-Science) and [satellite imagery and remote sensing](https://github.com/Stephen137/Imagery-in-Action).
+🌱 Experienced chartered accountant and business analyst, who leverages SQL, Python and location intelligence to extract meaningful patterns and identify anomalies from complex datasets, facilitating data-driven strategic decision making.
 
 🔭 I recently gained two new certifications: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120) and [Imagery In Action](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f46df0532b353002b2e5f8/-120)
 
