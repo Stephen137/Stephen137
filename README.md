@@ -1,5 +1,5 @@
 ### Hello. My name is Stephen 👋
-🌱 Experienced chartered accountant and business analyst who transforms raw complex datasets into business insights and actionable outcomes. I enjoy leveraging SQL, Python, and location intelligence to extract meaningful patterns and identify anomalies. Solid understanding of data engineering and machine learning techniques.
+🌱 Experienced chartered accountant and business analyst who manipulates large, raw, complex datasets to generate new insights and actionable outcomes. I enjoy leveraging  SQL, Python, and location intelligence to extract meaningful patterns and identify anomalies. Solid understanding of cloud technologies (GCP), code management (Git), and data engineering and machine learning techniques. British national living in Poland, with the Right to Work.
 
 🔭 I recently gained two new certifications: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120) and [Imagery In Action](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f46df0532b353002b2e5f8/-120)
 
