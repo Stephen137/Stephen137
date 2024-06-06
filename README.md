@@ -1,5 +1,5 @@
 ### Hello. My name is Stephen 👋
-Chartered accountant and business analyst with a passion for leveraging analytics, data engineering and statistics to uncover hidden insights, automate business processes, and reduce uncertainty. British national living in Poland, with the Right to Work within the EU.
+Experienced chartered accountant, exploring new skills and technologies to help uncover hidden insights, automate business processes, and reduce uncertainty. British national living in Poland, with the Right to Work within the EU.
 
 🔭 I recently gained two new certifications: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120) and [Imagery In Action](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f46df0532b353002b2e5f8/-120)
 
