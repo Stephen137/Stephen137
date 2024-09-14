@@ -1,6 +1,9 @@
 ### Hello. My name is Stephen 👋
 Experienced chartered accountant, exploring new skills and technologies to help uncover hidden insights, automate business processes, and reduce uncertainty. British national living in Poland, with the Right to Work within the EU.
 
+
+🔭 I recently gained a new certification: [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/account/accomplishments/certificate/Q4S6VD4DSSJA)
+
 🔭 I recently gained two new certifications: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120) and [Imagery In Action](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f46df0532b353002b2e5f8/-120)
 
 🔭 I recently gained a new certification: [Data Engineering Zoomcamp](https://certificate.datatalks.club/dezoomcamp/2023/f41bd5e614a2621152ee9c4355571dd1c0d0c8d3.pdf). My [capstone project](https://github.com/Stephen137/de_zoomcamp_project) was peer ranked joint 9th out of 298
