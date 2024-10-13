@@ -1,8 +1,8 @@
 ### Hello. My name is Stephen 👋
-Experienced chartered accountant, exploring new skills and technologies to help uncover hidden insights, automate business processes, and reduce uncertainty. British national living in Poland, with the Right to Work within the EU.
+Experienced chartered accountant, auditor, and business analyst with expertise in finance, data analysis, and process automation. Adept at uncovering business insights, enhancing workflow efficiency, and supporting decision-making through data-driven strategies. Strong technical skills and a commitment to continuous learning in new technologies, aimed at improving business intelligence and reducing uncertainty.
 
 
-🔭 I recently gained two new certificationa: [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/account/accomplishments/certificate/JGDUH1CUZW17) [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/account/accomplishments/certificate/Q4S6VD4DSSJA)
+🔭 I recently gained a new Honours certification: [Excel/VBA for Creative Problem Solving](https://www.coursera.org/account/accomplishments/certificate/A1BKHX0HSTG1)
 
 🔭 I recently gained two new certifications: [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f442d7532b353002b12f6e/-120) and [Imagery In Action](https://www.esri.com/training/TrainingRecord/Certificate/sjb137/64f46df0532b353002b2e5f8/-120)
 
