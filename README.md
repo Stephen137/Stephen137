@@ -18,9 +18,6 @@ Please reach out if you feel I might be a good fit for your team
   />
 </a>
 
-https://arcg.is/1PPbaa
-
-
 - ⚡ Fun fact: I play bass guitar in a rock band - new album in progress!   
 
 
